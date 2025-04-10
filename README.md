@@ -1,2 +1,1 @@
-# Dubber Code Test
- Lottery number randomiser
+# Lottery number randomiser
