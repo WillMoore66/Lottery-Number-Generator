@@ -1,0 +1,17 @@
+F:\Github repos\Dubber-Code-Test\Dubber Code Test\Dubber Code Test\bin\Debug\net8.0-windows\Dubber Code Test.exe
+F:\Github repos\Dubber-Code-Test\Dubber Code Test\Dubber Code Test\bin\Debug\net8.0-windows\Dubber Code Test.deps.json
+F:\Github repos\Dubber-Code-Test\Dubber Code Test\Dubber Code Test\bin\Debug\net8.0-windows\Dubber Code Test.runtimeconfig.json
+F:\Github repos\Dubber-Code-Test\Dubber Code Test\Dubber Code Test\bin\Debug\net8.0-windows\Dubber Code Test.dll
+F:\Github repos\Dubber-Code-Test\Dubber Code Test\Dubber Code Test\bin\Debug\net8.0-windows\Dubber Code Test.pdb
+F:\Github repos\Dubber-Code-Test\Dubber Code Test\Dubber Code Test\obj\Debug\net8.0-windows\Dubber_Code_Test.Form1.resources
+F:\Github repos\Dubber-Code-Test\Dubber Code Test\Dubber Code Test\obj\Debug\net8.0-windows\Dubber Code Test.csproj.GenerateResource.cache
+F:\Github repos\Dubber-Code-Test\Dubber Code Test\Dubber Code Test\obj\Debug\net8.0-windows\Dubber Code Test.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github repos\Dubber-Code-Test\Dubber Code Test\Dubber Code Test\obj\Debug\net8.0-windows\Dubber Code Test.AssemblyInfoInputs.cache
+F:\Github repos\Dubber-Code-Test\Dubber Code Test\Dubber Code Test\obj\Debug\net8.0-windows\Dubber Code Test.AssemblyInfo.cs
+F:\Github repos\Dubber-Code-Test\Dubber Code Test\Dubber Code Test\obj\Debug\net8.0-windows\Dubber Code Test.csproj.CoreCompileInputs.cache
+F:\Github repos\Dubber-Code-Test\Dubber Code Test\Dubber Code Test\obj\Debug\net8.0-windows\Dubber Code Test.sourcelink.json
+F:\Github repos\Dubber-Code-Test\Dubber Code Test\Dubber Code Test\obj\Debug\net8.0-windows\Dubber Code Test.dll
+F:\Github repos\Dubber-Code-Test\Dubber Code Test\Dubber Code Test\obj\Debug\net8.0-windows\refint\Dubber Code Test.dll
+F:\Github repos\Dubber-Code-Test\Dubber Code Test\Dubber Code Test\obj\Debug\net8.0-windows\Dubber Code Test.pdb
+F:\Github repos\Dubber-Code-Test\Dubber Code Test\Dubber Code Test\obj\Debug\net8.0-windows\Dubber Code Test.genruntimeconfig.cache
+F:\Github repos\Dubber-Code-Test\Dubber Code Test\Dubber Code Test\obj\Debug\net8.0-windows\ref\Dubber Code Test.dll
