@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Github repos\\Dubber-Code-Test\\Dubber Code Test\\Dubber Code Test\\Dubber Code Test.csproj",
+      "projectUniqueName": "F:\\Github repos\\Lottery-Number-Generator\\Lottery Number Generator\\Dubber Code Test\\Dubber Code Test.csproj",
       "projectName": "Dubber Code Test",
-      "projectPath": "F:\\Github repos\\Dubber-Code-Test\\Dubber Code Test\\Dubber Code Test\\Dubber Code Test.csproj",
+      "projectPath": "F:\\Github repos\\Lottery-Number-Generator\\Lottery Number Generator\\Dubber Code Test\\Dubber Code Test.csproj",
       "packagesPath": "C:\\Users\\Lunar\\.nuget\\packages\\",
-      "outputPath": "F:\\Github repos\\Dubber-Code-Test\\Dubber Code Test\\Dubber Code Test\\obj\\",
+      "outputPath": "F:\\Github repos\\Lottery-Number-Generator\\Lottery Number Generator\\Dubber Code Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

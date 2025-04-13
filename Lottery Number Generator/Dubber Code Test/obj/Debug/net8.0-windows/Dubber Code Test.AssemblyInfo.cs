@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dubber Code Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f5cc66a45a86a2c2a1054e5e5d2c8ae95175339")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9ff863cf3542cda12b4d712c7b448c0a4617bfe")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dubber Code Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dubber Code Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

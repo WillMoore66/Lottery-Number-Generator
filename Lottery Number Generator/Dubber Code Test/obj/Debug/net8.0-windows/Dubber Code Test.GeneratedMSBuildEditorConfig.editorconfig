@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Dubber_Code_Test
-build_property.ProjectDir = F:\Github repos\Dubber-Code-Test\Dubber Code Test\Dubber Code Test\
+build_property.ProjectDir = F:\Github repos\Lottery-Number-Generator\Lottery Number Generator\Dubber Code Test\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
